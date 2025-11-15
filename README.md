@@ -1,6 +1,6 @@
 # Jonathan Ehwald
 
-Hey there! 👋 My name is Jonathan and I spend a decent amount of my time making sure the following repositories stay up-to-date:
+Hey there! 👋 My name is Jonathan, and I spend a decent amount of my time making sure the following repositories stay up-to-date:
 
 | Organisation  | Repository |
 | ------------- | ------------- |
@@ -13,6 +13,7 @@ Hey there! 👋 My name is Jonathan and I spend a decent amount of my time makin
 | [DoctorJohn][org-doctorjohn]                 | [**django-admin-notice**](https://github.com/DoctorJohn/django-admin-notice)                      |
 | [DoctorJohn][org-doctorjohn]                 | [**django-admob-ssv**](https://github.com/DoctorJohn/django-admob-ssv)                            |
 | [DoctorJohn][org-doctorjohn]                 | [**django-expo-notifications**](https://github.com/DoctorJohn/django-expo-notifications)          |
+| [DoctorJohn][org-doctorjohn]                 | [**fastar**](https://github.com/DoctorJohn/fastar)                                                |
 | [DoctorJohn][org-doctorjohn]                 | [**python-gamedig**](https://github.com/DoctorJohn/python-gamedig)                                |
 | [DoctorJohn][org-doctorjohn]                 | [**keyvalues1**](https://github.com/DoctorJohn/keyvalues1)                                        |
 
